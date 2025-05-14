@@ -1,3 +1,5 @@
+Aqui temos um sistema bancário simples em Python com as operações de depósito, saque e extrato.
+
 ======== MENU ========
 1. Depositar
 2. Sacar
